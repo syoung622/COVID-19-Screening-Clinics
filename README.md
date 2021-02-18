@@ -1,4 +1,4 @@
-# <b>Covid-19 Screeining-Clinics Web Application</b><br>
+# <b>COVID-19 Screeining-Clinics Web Application</b><br>
  Provide screening clinic information
  
 ## Team member(Big_Data_Application)
