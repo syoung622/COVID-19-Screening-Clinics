@@ -15,5 +15,6 @@
  1. download repository
  2. "sql" file -> create database, tables and insert data using sql queries<br>
     ("data" folder -> data csv files)
- 3. "php" folder -> access the web through localhost starting from login.php
+ 3. "php" folder -> access the web through localhost starting from login.php<br>
+    (ID: admin / Password: admin)
  
