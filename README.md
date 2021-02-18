@@ -1,6 +1,19 @@
-# Big_Data_Application
- 코로나19-선별진료소 안내 및 등록 웹서비스(php, mysql)
-
- 1. 원하는 지역, 검진일, 검진 방식을 선택하면 해당되는 선별진료소의 정보를 제공
- 2. 선별진료소 등록 및 선별진료소 정보 수정
- 3. 코로나19 확진자 정보 제공
+# <b>COVID-19 Screeining-Clinics Web Application</b><br>
+ Provide screening clinic information
+ 
+## Team member(Big_Data_Application)
+- Seoyeong Han
+- Heejin Kim
+ 
+## <b>Function</b>
+ 1. Providing information on selected clinics according to the region, date of examination, and method of examination<br>
+ 2. Registration of screening clinics<br>
+ 3. Modification of screening clinic information<br>
+ 4. COVID-19 confirmed case information provided<br>
+ 
+## <b>To use this web</b>
+ 1. download repository
+ 2. "sql" file -> create database, tables and insert data using sql queries<br>
+    ("data" folder -> data csv files)
+ 3. "php" folder -> access the web through localhost starting from login.php
+ 
